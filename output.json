@@ -1,0 +1,15 @@
+{
+    "topics": [
+        "Topic 1",
+        "Topic 2",
+        "Topic 3"
+    ],
+    "relevant_links": [
+        "link1",
+        "link2",
+        "link3",
+        "link4",
+        "link5"
+    ],
+    "questions": {}
+}
